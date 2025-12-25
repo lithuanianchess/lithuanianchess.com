@@ -141,7 +141,6 @@ footer {
 Zacharijus Kurnosov has officially become the <strong>9th Grandmaster in Lithuania</strong>,
 marking a historic milestone for Lithuanian chess on the international stage.
 </p>
-
 <p class="subtitle lang lt" style="display:none">
 Zacharijus Kurnosov oficialiai tapo <strong>9-uoju didmeistriu Lietuvoje</strong>,
 pažymėdamas istorinį pasiekimą Lietuvos šachmatų istorijoje.
