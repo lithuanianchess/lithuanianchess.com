@@ -1,5 +1,5 @@
-# Zacharijus Kurnosov – 9th Grandmaster in Lithuania
 <html lang="en">
+<title> Devyntasis Lietuvos didmeistris</title>
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
