@@ -194,8 +194,7 @@ on the global chess map and inspires young Lithuanian players.
 </p>
 
 <p class="lang lt" style="display:none">
-Tapimas 9-uoju didmeistriu Lietuvoje stiprina šalies pozicijas pasaulio šachmatų
-žemėlapyje ir įkvepia jaunąją Lietuvos šachmatininkų kartą.
+Zacharijus vis dar negali iki galo suvokti savo pasiekto titulo, bet tapimas 9-uoju didmeistriu Lietuvoje stiprina šalies pozicijas pasaulio šachmatų žemėlapyje ir įkvepia jaunąją Lietuvos šachmatininkų kartą
 </p>
 
 <div class="stats">
