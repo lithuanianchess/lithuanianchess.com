@@ -9,7 +9,7 @@ in both **English and Lithuanian**.
 ---
 
 ## 🌍 Live Website
-https://zacharijus.github.io
+https://lithuanianchess.github.io
 
 ---
 
