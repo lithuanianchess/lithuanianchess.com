@@ -173,13 +173,10 @@ This achievement represents year of dedication, elite competition, and strategic
 <h2 class="lang lt" style="display:none">Kelias Lietuvoje</h2>
 
 <p class="lang en">
-From local tournaments in Lithuania to high-level international competitions,
-Zacharijus demonstrated discipline, precision, and exceptional mental strength.
+Life in the dormitory of "Vilnius Lietuvių Namai" Gymnasium became an important part of his chess journey — it was there that he regularly took part in tournaments. Despite not being a Lithuanian citizen since birth, he competed in tournaments of the Russian Chess Federation while traveling to his homeland during summer holidays, yet his title was officially recognized in Lithuania, “the country of his heart.”
 </p>
-
 <p class="lang lt" style="display:none">
-Talentingas Zacharijus demonstravo
-discipliną, tikslumą ir išskirtinį psichologinį stiprumą.
+Gyvenimas Vilniaus lietuvių namų gimnazijos bendrabutyje tapo svarbia jo šachmatų kelio dalimi – būtent čia jis nuolat dalyvavo turnyruose, nepaisant to, kad nuo gimimo nėra Lietuvos pilietis, važiuodamas į vasaros atostogas į savo gimtinę, jis žaidė Šachmatų Rusijos Federacijos turnyruose, bet jo titulas buvo pripažintas Lietuvoje, "jo širdies šalyje."
 </p>
 </section>
 
@@ -188,12 +185,11 @@ discipliną, tikslumą ir išskirtinį psichologinį stiprumą.
 <h2 class="lang lt" style="display:none">Ką tai reiškia Lietuvai</h2>
 
 <p class="lang en">
-Becoming the 9th Grandmaster in Lithuania strengthens the country’s position
-on the global chess map and inspires young Lithuanian players.
+Zacharijus still cannot fully grasp the significance of his achievement, but becoming the 9th Grandmaster in Lithuania strengthens the country’s position on the global chess map and inspires the younger generation of Lithuanian chess players.
 </p>
 
 <p class="lang lt" style="display:none">
-Tapimas 9-uoju didmeistriu Lietuvoje stiprina šalies pozicijas pasaulio šachmatų
+Zacharijus vis dar negali iki galo suvokti savo pasiekto titulo, bet tapimas 9-uoju didmeistriu Lietuvoje stiprina šalies pozicijas pasaulio šachmatų
 žemėlapyje ir įkvepia jaunąją Lietuvos šachmatininkų kartą.
 </p>
 
