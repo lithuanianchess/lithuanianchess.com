@@ -135,6 +135,9 @@ footer {
 <body>
 <div class="container">
 <p class="subtitle lang en">
+<header>
+<div>
+<h1>Zacharijus Kurnosov</h1>
 Zacharijus Kurnosov has officially become the <strong>9th Grandmaster in Lithuania</strong>,
 marking a historic milestone for Lithuanian chess on the international stage.
 </p>
